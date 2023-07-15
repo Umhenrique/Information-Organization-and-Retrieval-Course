@@ -7,7 +7,6 @@ O programa foi desenvolvido com muito esforço e dedicação.
 
 > "No começo deus fez o homem, e o homem acha que fez deus, e no fim deus foi morto pelo homem, e o homem agora quer ser deus." - Frankstain
 
-///////////////////////////////
 
 # Subject: Information Organization and Retrieval Course Work
 
